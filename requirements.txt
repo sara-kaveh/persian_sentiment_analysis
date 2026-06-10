@@ -1,0 +1,10 @@
+python
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+joblib
+pandas
+hazm
